@@ -3,7 +3,7 @@
 
 BootstrapSubnav allows you to nest your dropdown menus for the Navbar Component.
 
-[Click to view a demo Demo](http://medialeitwerk.de/files/bootstrap-subnav/)
+[Click to view a demonstration](http://medialeitwerk.de/files/bootstrap-subnav/)
 
 By default, bootstrap does not allow to nest multiple dropdown menus. This small script enables full support to nest dropdown items.
 
