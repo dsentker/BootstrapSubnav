@@ -7,13 +7,7 @@ BootstrapSubnav allows you to nest your dropdown menus for the Navbar Component.
 
 By default, bootstrap does not allow to nest multiple dropdown menus. This small script enables full support to nest dropdown items.
 
-![Default state](http://medialeitwerk.de/files/bsn1.png)
-
-Click on the nested dropdown menu anchor...
-
-![Open state](http://medialeitwerk.de/files/bsn2.png)
-
-...and the related sub nav items scrolls out.
+![Default state](http://medialeitwerk.de/files/desktop.gif)
 
 ### Features
 - Integrates perfectly to bootstrap (inclusive responsive behaviour)
@@ -21,6 +15,7 @@ Click on the nested dropdown menu anchor...
 - Rotated Caret icon and indentation helps user to identify where he is  
 - Lightweight script / css
 
+![Default state](http://medialeitwerk.de/files/mobile.gif)
 
 ### Usage
 Import bootstrap-subnav.js as well as bootstrap-subnav.css to your website.
@@ -35,6 +30,14 @@ Import bootstrap-subnav.js as well as bootstrap-subnav.css to your website.
 
 Create your menu structure. Have Fun!
 
+
+![Default state](http://medialeitwerk.de/files/bsn1.png)
+
+Click on the nested dropdown menu anchor...
+
+![Open state](http://medialeitwerk.de/files/bsn2.png)
+
+...and the related sub nav items scrolls out.
 
 ### ToDo
 - Check if other components can be affected as well
